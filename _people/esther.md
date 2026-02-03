@@ -1,7 +1,7 @@
 ---
 name: Esther Suh
 image: /assets/people/esther.jpg
-role: Master's Student
+role: Masters Student
 advisors:
   - Dominik Moritz
 ---
